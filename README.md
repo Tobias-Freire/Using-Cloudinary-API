@@ -1,5 +1,5 @@
 # Using-Cloudinary-API
-<h2>Just a little code using Cloudinari AI and API to remove images background</h2>
+<h2>Just a little code using Cloudinary AI and API to remove images background</h2>
 
 
 
