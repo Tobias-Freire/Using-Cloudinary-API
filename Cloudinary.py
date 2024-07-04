@@ -3,7 +3,7 @@ import cloudinary.uploader
 import cloudinary.api
 import requests
 
-# Configuração
+# Configuration
 cloudinary.config( 
     cloud_name = "YOUR CLOUD NAME", 
     api_key = "YOUR API KEY", 
